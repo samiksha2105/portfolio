@@ -45,6 +45,7 @@ PortfolioWebsite/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 Development Process
 Step 1: Create React Project
 npm create vite@latest portfolio-website -- --template react
